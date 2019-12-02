@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Page Remove="ShowImage.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="ImageNameSpace.fs" />
+    <Compile Include="Utilities.fs" />
+    <EmbeddedResource Include="ShowImage.xaml" />
+    <Compile Include="ShowImage.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="4.7.0-preview3.19551.4" />
+  </ItemGroup>
+
+</Project>
+
+
+

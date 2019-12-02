@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Page Remove="MainWindow.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="AP.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <EmbeddedResource Include="MainWindow.xaml" />
+    <Compile Include="MainWindow.fs" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyUserControl\MyUserControl.fsproj" />
+  </ItemGroup>
+
+</Project>
