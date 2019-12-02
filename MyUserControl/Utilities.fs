@@ -28,7 +28,7 @@ let contentAsXamlObject (strXamlName : string) =
     | false -> null
 
 
-// strXamlName - MUST be Embedded Resource  - this function must be in same Assembly
+// strXamlName - MUST be Embedded Resource  - this function using  Assembly name
 // XAML - MUST be Embedded Resource  ("use just xaml file name" as parameter)  
 let contentAsXamlObjectFromAssembly (assemblyName : string, xamlFilelName : string) =   
     let assembly = Assembly.Load(assemblyName) 
