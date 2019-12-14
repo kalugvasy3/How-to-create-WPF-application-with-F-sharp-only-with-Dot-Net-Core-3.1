@@ -46,7 +46,7 @@
 ....
 
 #### Save and reload project. Mostly done.
-#### You can use this application like template or full working example for viewing any type of image.
+#### You can use this application like template or full working example for viewing any type of image. Just Drug and Drop image file.
 
 ![](media/image4.png)
 
