@@ -50,9 +50,9 @@
 
 #### For create subproject use absolutely same rule. Add subproject like dependent project.
 
-#### Pay your attention about class Utilities (file Utilities.fs) it includes everything for download XAML file from assembly and convert it to content, find user control...
+#### Pay your attention about class Utilities (file Utilities.fs) it includes everything for download XAML file from assembly and convert it to content, find user control, etc.
 
-#### All XAML file must be "Embedded resource"
+#### All XAML file must be **Embedded resource**
 
 ![](media/image5.PNG)
 
