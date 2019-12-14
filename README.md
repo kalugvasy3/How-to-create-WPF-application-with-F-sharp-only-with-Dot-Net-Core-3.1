@@ -8,15 +8,14 @@ Dot Net Core 3.1
 Create F\# Core 3.1 Console App (.Net Core) , give project name and
 "Create".
 
-![](media/image1.png){width="2.7503838582677167in"
-height="1.458536745406824in"}
+![](media/image1.png)
+
 
 Right click on project and "Unload Project"
 
 ![](media/image2.png)
 
-![](media/image3.png){width="3.0105336832895886in"
-height="1.7916666666666667in"}
+![](media/image3.png)
 
 And replace
 
@@ -54,7 +53,7 @@ Mostly done.
 
 For template or full working example please use this application.
 
-![](media/image4.png){width="3.40625in" height="2.13951334208224in"}
+![](media/image4.png)
 
 For create subproject use absolutely same rule.
 
