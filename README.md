@@ -1,4 +1,4 @@
-### All Picture Image Viewer
+## All Picture Image Viewer
 
 This is example how to create WPF application with F\# (F sharp) only
 with
@@ -17,7 +17,7 @@ Create F\# Core 3.1 Console App (.Net Core) , give project name and
 
 ![](media/image3.png)
 
-### And replace
+#### And replace
 
 \<Project Sdk=\"Microsoft.NET.Sdk\"\>
 
@@ -31,7 +31,7 @@ Create F\# Core 3.1 Console App (.Net Core) , give project name and
 
 ....
 
-### To this
+#### To this
 
 \<Project Sdk=\"Microsoft.NET.Sdk.WindowsDesktop\"\>
 
@@ -47,23 +47,23 @@ Create F\# Core 3.1 Console App (.Net Core) , give project name and
 
 ....
 
-### Save and reload project.
+#### Save and reload project.
 
-### Mostly done.
+#### Mostly done.
 
-### For template or full working example please use this application.
+#### For template or full working example please use this application.
 
 ![](media/image4.png)
 
-### For create subproject use absolutely same rule.
+#### For create subproject use absolutely same rule.
 
-### Add subproject like dependent project.
+#### Add subproject like dependent project.
 
-### Pay your attention about class Utilities (file Utilities.fs) it includes everything for download XAML file from assembly and convert it to content, find user control...
+#### Pay your attention about class Utilities (file Utilities.fs) it includes everything for download XAML file from assembly and convert it to content, find user control...
 
-### All XAML file must be "Embedded resource"
+#### All XAML file must be "Embedded resource"
 
 ![](media/image5.PNG)
 
--   For converting word doc to readme.nd file I used
+-   For converting word doc to readme.md file I used
     <https://pandoc.org/MANUAL.html>
