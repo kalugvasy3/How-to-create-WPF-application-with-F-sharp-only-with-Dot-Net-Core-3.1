@@ -43,17 +43,12 @@
 
 ....
 
-#### Save and reload project.
-
-#### Mostly done.
-
-#### For template or full working example please use this application.
+#### Save and reload project. Mostly done.
+#### You can use this application like template or full working example for viewing any type of omage.
 
 ![](media/image4.png)
 
-#### For create subproject use absolutely same rule.
-
-#### Add subproject like dependent project.
+#### For create subproject use absolutely same rule. Add subproject like dependent project.
 
 #### Pay your attention about class Utilities (file Utilities.fs) it includes everything for download XAML file from assembly and convert it to content, find user control...
 
