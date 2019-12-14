@@ -13,7 +13,7 @@ height="1.458536745406824in"}
 
 Right click on project and "Unload Project"
 
-![](media/image2.png){width="2.6999682852143483in" height="3.78125in"}
+![](media/image2.png)
 
 ![](media/image3.png){width="3.0105336832895886in"
 height="1.7916666666666667in"}
