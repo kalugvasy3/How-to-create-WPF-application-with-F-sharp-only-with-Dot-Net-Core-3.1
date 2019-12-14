@@ -11,7 +11,7 @@
 
 ![](media/image2.png)
 
-#### And Edit project file itselfs.
+#### Edit project file itselfs.
 
 ![](media/image3.png)
 
