@@ -1,12 +1,8 @@
 ## All Picture Image Viewer
 
-This is example how to create WPF application with F\# (F sharp) only
-with
+#### This is example how to create WPF application with F\# (F sharp) only with Dot Net Core 3.1
 
-Dot Net Core 3.1
-
-Create F\# Core 3.1 Console App (.Net Core) , give project name and
-"Create".
+#### Create F\# Core 3.1 Console App (.Net Core) , give project name and "Create".
 
 ![](media/image1.png)
 
