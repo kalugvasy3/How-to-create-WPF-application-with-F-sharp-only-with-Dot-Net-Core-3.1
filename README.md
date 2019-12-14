@@ -59,9 +59,7 @@ Create F\# Core 3.1 Console App (.Net Core) , give project name and
 
 ### Add subproject like dependent project.
 
-### Pay your attention about class Utilities (file Utilities.fs) it include
-### everything for download XAML file from assembly and convert it to
-### content, find user control...
+### Pay your attention about class Utilities (file Utilities.fs) it includes everything for download XAML file from assembly and convert it to content, find user control...
 
 ### All XAML file must be "Embedded resource"
 
